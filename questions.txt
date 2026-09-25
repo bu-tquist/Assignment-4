@@ -1,0 +1,3 @@
+(1) plot multi cpu usage stays consistent and is not effected by execution time
+(2) Cpu usage percentage stays high in bench taskset and execution time is erractic 
+(3) more cpu usage led to quicker execution time
